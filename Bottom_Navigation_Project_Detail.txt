@@ -1,0 +1,41 @@
+                                                                        Project Details 
+                                                                
+                                                                
+Project Name : Bottom_Navigation_View_Android
+Files Used :
+
+        *   BottomNavigationView_MainActivity.java
+        *   Fragment_A.java
+        *   Fragment_B.java
+        *   Fragment_C.java
+        *   Fragment_D.java
+        *   Fragment_E.java
+        
+        *   activity_main.xml
+        *   fragment_a.xml
+        *   fragment_b.xml
+        *   fragment_c.xml
+        *   fragment_d.xml
+        *   fragment_e.xml
+        
+        *   items_menu.xml
+        
+        
+Project Details :
+
+            In the project, I have implemented the Bottom Navigation.
+            File : " BottomNavigationView_MainActivity.java " is the main activity file.
+            File : " Fragment_A.java " is first Fragment file 
+            File : " Fragment_B.java " is second Fragment file
+            File : " Fragment_C.java " is third Fragment file
+            File : " Fragment_D.java " is fourth Fragment file
+            File : " Fragment_E.java " is fifth Fragment file
+            
+            File : " activity_main.xml " is the XML designing file
+            
+            File : " items_menu.xml " is the file, contains all the icons for the bottom navigation.
+            
+            
+            In the project, file " items_menu.xml " is use to insert all the defined icons in the Bottom Navigation of the file " activity_main.xml " file's BottomNavigationView named View. 
+            All the files names " fragment_a.xml ", " fragment_b.xml ", " fragment_c.xml ", " fragment_d.xml " and " fragment_e.xml " files are use to design all of the fragments.
+            Finally the file " BottomNavigationView_MainActivity.java ' is use to integrate and configure all the methods with of the fragments and with the Main_Activity.
